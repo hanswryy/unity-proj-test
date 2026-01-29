@@ -1,0 +1,1 @@
+Console.log("Movement script loaded successfully.");
